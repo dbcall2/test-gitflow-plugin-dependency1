@@ -5,10 +5,10 @@
 
    <groupId>com.bcall</groupId>
    <artifactId>test-gitflow-plugin-dependency1</artifactId>
-   <version>0.0.2-SNAPSHOT</version>
+   <version>0.0.1-SNAPSHOT</version>
    <packaging>jar</packaging>
 
-   <name>test-gitflow-plugin</name>
+   <name>test-gitflow-plugin-dependency1</name>
    <description>Demo project for Spring Boot</description>
 
    <parent>
