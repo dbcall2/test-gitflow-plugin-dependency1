@@ -71,7 +71,7 @@
             <configuration>
                <installProject>true</installProject>
                <verbose>true</verbose>
-               <keepBranch>true</keepBranch>
+               <keepBranch>false</keepBranch>
                <pushRemote>true</pushRemote>
 
                <gitFlowConfig>
